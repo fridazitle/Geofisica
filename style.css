@@ -1,0 +1,37 @@
+body {
+    background-color: hwb(0 100% 0% / 0.915);
+    font-family: system-ui;
+    color: rgba(9, 10, 10, 0.879);
+    }
+
+h1 {
+    color: rgba(10, 74, 10, 0.747);
+}
+
+.texto {
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+
+.espacio {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.texto-centrado {
+    align-items: center;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.imagenes {
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
